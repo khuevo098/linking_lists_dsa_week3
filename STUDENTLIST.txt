@@ -1,0 +1,12 @@
+21120471,LLe Minh Tree, 9.0, 8.0
+21120124, Jack Nam Trieu, 7.0, 9.0
+21120417, Nguyen Van Kitty, 6.5, 7.0
+21120781, Lam Hai Duong, 10, 8.5
+21120326, Dat Vina Phone, 8.5, 6.0
+21120234, Tran Van Horse, 8.0, 9.0
+21111478, Cam Lan Suc, 8.5, 5.5
+21174219, Lanh Han Thien Bang, 7.5, 4.0
+21141112, Vo Thi Diem My, 8.0, 10
+21632147, Dam Vinh Hung, 7.5, 8.0
+21156321, Nguyen Phuong Hang, 6.0, 8.5
+21131451, Loc Phu Ho, 3.0, 8.5
